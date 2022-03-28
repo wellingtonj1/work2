@@ -1,0 +1,3 @@
+ABOUT the problem... the code solve this problem........
+
+![problem](https://user-images.githubusercontent.com/34574051/160427294-6b7d79ee-da75-4da1-bebf-486d9aaef799.png)
